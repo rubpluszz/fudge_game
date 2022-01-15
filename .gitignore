@@ -104,7 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-.fudge_env
+/fudge_env
 env/
 venv/
 ENV/
@@ -130,4 +130,4 @@ dmypy.json
 .pyre/
 
 #other
-.fudge_rules
+/fudge_rules
